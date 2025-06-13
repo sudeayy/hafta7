@@ -1,0 +1,2 @@
+Haber sitesinden veri çekildi ve dosyaya kaydedildi.  
+Matplotlib ile renkli grafik çizildi.
