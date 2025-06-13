@@ -1,0 +1,4 @@
+Bu hafta iki farklı kod yazdık.
+İlk kodda bir haber sitesinden başlık, içerik ve tarihi çekmeyi öğrendik. requests ve BeautifulSoup kütüphaneleriyle web sayfasından veri aldık ve bu verileri bir dosyaya kaydettik.
+
+İkinci kodda ise matplotlib ile grafik çizimi yaptık. Farklı renklerde noktalar belirleyip bu noktaları birleştirdik. Ayrıca eksenleri ve okları çizerek görsel olarak grafik oluşturmayı öğrendik.
